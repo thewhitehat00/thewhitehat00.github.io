@@ -2,9 +2,12 @@
   "name": "whitehat",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://thewhitehat00.github.io",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
+    "export": "next export",
+    "deploy": "npm run build && npm run export",
     "start": "next start",
     "lint": "next lint"
   },
@@ -32,3 +35,4 @@
     "typescript": "^5"
   }
 }
+
