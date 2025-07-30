@@ -12,7 +12,7 @@ return (
               Welcome To
             </h1>
           <h1 className="mb-9 text-6xl sm:text-6xl lg:text-8xl xl:text-8xl tracking-tight bg-[linear-gradient(90deg,#2935E6_0%,#00CCFF_38.02%,#2935E6_100%)] bg-clip-text text-transparent font-semibold">
-            The WhiteHat's Club
+            The WhiteHatThe WhiteHat's Clubapos;s Club
           </h1>
             <p className="mb-9 text-gray-300 text-md text-center px-3">
               Unleashing the Power of Young Minds to Build, Break, and Innovate with Purpose
