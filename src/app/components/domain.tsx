@@ -14,7 +14,7 @@ export default function Domain() {
         Our Domains
       </h1>
       <p className="mb-12 text-gray-300 text-md text-center px-3 max-w-3xl">
-        At At The WhiteHatThe WhiteHat's Clubapos;s Club, we champion hands-on learning and the freedom to explore. Every core committee member is encouraged to choose from five dynamic domains, helping them discover and pursue their true passion in an environment that values creativity, growth, and self-driven innovation.
+        At The WhiteHat's Club, we champion hands-on learning and the freedom to explore. Every core committee member is encouraged to choose from five dynamic domains, helping them discover and pursue their true passion in an environment that values creativity, growth, and self-driven innovation.
       </p>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 w-full px-4">
@@ -31,3 +31,4 @@ export default function Domain() {
     </section>
   );
 }
+
